@@ -13,12 +13,14 @@ The real estate company has engaged your firm to build out a data product and pr
 
 Files present:
 
-i.  Airbnb_Zillow_Analysis.ipynb  
-ii. Airbnb_Zillow_Analysis.html    
-iii.Data_Cleaning_I.ipynb   
-iv. Airbnb_Analysis.ipynb    
-v.  Find_Breakeven.ipynb    
-vi. Zillow_Analysis.ipynb    
+i.   Airbnb_Zillow_Analysis.ipynb  
+ii.  Airbnb_Zillow_Analysis.html    
+iii. Data_Cleaning_I.ipynb   
+iv.  Airbnb_Analysis.ipynb    
+v.   Find_Breakeven.ipynb    
+vi.  Zillow_Analysis.ipynb
+vii. Metadata.ipynb    
+viii.Metadata.html    
 
 CSV files used:
 
@@ -38,6 +40,8 @@ vi. Results
 vii.What next?
 
 I have consolidated all the code into Airbnb_Zillow_Analysis.ipynb. If individual code is required for further analysis, please open other ipynb files on jupyter notebook to view and run them.
+
+Metadata.html consists of the metadata of csv files generated while running the code. 
 
 
 

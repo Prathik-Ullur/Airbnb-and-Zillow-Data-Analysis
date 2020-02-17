@@ -9,7 +9,7 @@ You are consulting for a real estate company that has a niche in purchasing prop
 The real estate company has engaged your firm to build out a data product and provide your conclusions to help them understand which zip codes would generate the most profit on short term rentals within New York City.
 
 
-## Getting Started
+### Getting Started
 
 Files present:
 
@@ -25,7 +25,7 @@ CSV files used:
 Zillow Data for two - bedroom properties : Zip_Zhvi_2bedroom.csv    
 Airbnb price data : listings.csv    
 
-## Open Report
+### View Report
 
 Please open Airbnb_Zillow_Analysis.html in a browser window. This file consists of code and report of the following sections:
 

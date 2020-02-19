@@ -13,14 +13,13 @@ The real estate company has engaged your firm to build out a data product and pr
 
 Files present:
 
-i.   Airbnb_Zillow_Analysis.ipynb  
-ii.  Airbnb_Zillow_Analysis.html    
-iii. Data_Cleaning_I.ipynb   
-iv.  Airbnb_Analysis.ipynb    
-v.   Find_Breakeven.ipynb    
-vi.  Zillow_Analysis.ipynb
-vii. Metadata.ipynb    
-viii.Metadata.html    
+i.   Airbnb_Zillow_Analysis.ipynb     
+ii. Data_Cleaning_I.ipynb   
+iii.  Airbnb_Analysis.ipynb    
+iv.   Find_Breakeven.ipynb    
+v.  Zillow_Analysis.ipynb
+vi. Metadata.ipynb    
+ 
 
 CSV files used:
 
@@ -29,7 +28,7 @@ Airbnb price data : listings.csv
 
 ### View Report
 
-Please open Airbnb_Zillow_Analysis.html in a browser window. This file consists of code and report of the following sections:
+Please open Airbnb_Zillow_Analysis.ipynb. This file consists of code and report of the following sections:
 
 i.  Data Available   
 ii. Data Cleaning/Quality check   
@@ -41,7 +40,6 @@ vii.What next?
 
 I have consolidated all the code into Airbnb_Zillow_Analysis.ipynb. If individual code is required for further analysis, please open other ipynb files on jupyter notebook to view and run them.
 
-Metadata.html consists of the metadata of csv files generated while running the code. 
 
 
 

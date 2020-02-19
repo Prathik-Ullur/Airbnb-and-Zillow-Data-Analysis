@@ -1,4 +1,4 @@
-# Airbnb and Zillow Data Challenge
+# Airbnb and Zillow Data Analysis
 
 Prathik Ullur
 
